@@ -1,8 +1,8 @@
 ## Bem-vindo(a) ao perfil da MariaLuiza-Silva
 
  <div>
-   <a href="https://github.com/MariaLuiza-Silva">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaLuiza-Silva&_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <a href="https://github.com/MariaLuiza Silva">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaLuiza Silva&_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaLuiza-Silva&layout=compact&langs_count=6&theme=radical"/>
 </div>
     
